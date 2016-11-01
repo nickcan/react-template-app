@@ -5,7 +5,7 @@ import ReactDOM from "react-dom";
 import { Router, Route, browserHistory } from 'react-router';
 import thunkMiddleware from "redux-thunk";
 
-import App from "./src/containers/app";
+import App from "./src/app";
 
 import reducer from "./src/reducers/index";
 
