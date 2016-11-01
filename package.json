@@ -1,12 +1,12 @@
 {
   "name": "react-template-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple React template to get projects up and running quickly with basic Babel and Sass compilation",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server"
   },
-  "author": "",
+  "author": "Nick Cantelmi",
   "license": "ISC",
   "dependencies": {
     "react": "^15.3.2",
