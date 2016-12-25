@@ -2,7 +2,7 @@ import { applyMiddleware, createStore } from "redux";
 import { Provider } from "react-redux";
 import React from "react";
 import ReactDOM from "react-dom";
-import { Router, Route, browserHistory } from 'react-router';
+import { Router, Route, browserHistory } from "react-router";
 import thunkMiddleware from "redux-thunk";
 
 import App from "./src/app";
